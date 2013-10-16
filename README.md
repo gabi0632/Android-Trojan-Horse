@@ -1,4 +1,4 @@
 Android Trojan Horse
 ====================
 
-A final year Magshimim Project.
+A final year Magshimim project.
